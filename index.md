@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Bootcamp: Welcome to my blog!
 ---
 
